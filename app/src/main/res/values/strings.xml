@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FilePicker</string>
+    <string name="upload">Upload</string>
+    <string name="file_location">File Location :</string>
+</resources>
